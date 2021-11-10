@@ -1,12 +1,33 @@
-import React from 'react'
+import { SearchOutlined, ShoppingCartOutlined, FavoriteBorderOutlined } from "@material-ui/icons"
+import styled from "styled-components"
 
-const Product = () => {
+const Container= styled.div`
+flex:1;
+margin:5px;
+`
+const Circle=styled.div``
+const Image=styled.img``
+const Info=styled.div``
+const Icon=styled.div``
+const Product = ({item}) => {
     return (
-        <div>
-            
-        </div>
+        <Container>
+            <circle/>
+            <Image src={item.img}/>
+            <info> 
+            <Icon>
+            <ShoppingCartOutlined/>
+            </Icon>
+            <Icon>
+            <SearchOutlined/>
+            </Icon>
+            <Icon>
+            <FavoriteBorderOutlined/>
+            </Icon>
+            </info>
+        </Container>
     )
 }
 
-export default Product
+export default Product;
 

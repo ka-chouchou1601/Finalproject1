@@ -48,22 +48,41 @@ export const categories=[
 export const popularProducts=[
     {
         id:1,
-        img:"https://images.pexels.com/photos/3576559/pexels-photo-3576559.jpeg?cs=srgb&dl=pexels-sophia-moss-3576559.jpg&fm=jpg",
+        img:"https://images.pexels.com/photos/8479108/pexels-photo-8479108.jpeg?cs=srgb&dl=pexels-los-muertos-crew-8479108.jpg&fm=jpg",
       
        
     },
 
     {
-        id:1,
-        img:"https://images.pexels.com/photos/5938439/pexels-photo-5938439.jpeg?cs=srgb&dl=pexels-sora-shimazaki-5938439.jpg&fm=jpg",
+        id:2,
+        img:"https://images.pexels.com/photos/2661256/pexels-photo-2661256.jpeg?cs=srgb&dl=pexels-adrienne-andersen-2661256.jpg&fm=jpg",
         
         
     },
     {
-        id:1,
-        img:"https://images.pexels.com/photos/3373739/pexels-photo-3373739.jpeg?cs=srgb&dl=pexels-shiny-diamond-3373739.jpg&fm=jpg",
+        id:3,
+        img:"https://images.pexels.com/photos/6707337/pexels-photo-6707337.jpeg?cs=srgb&dl=pexels-mikhail-nilov-6707337.jpg&fm=jpg",
        
        
     },
+    {
+        id:4,
+        img:"https://images.pexels.com/photos/8131585/pexels-photo-8131585.jpeg?cs=srgb&dl=pexels-ron-lach-8131585.jpg&fm=jpg",
+       
+       
+    },
+    {
+        id:5,
+        img:"https://images.pexels.com/photos/3685530/pexels-photo-3685530.jpeg?cs=srgb&dl=pexels-valeriia-miller-3685530.jpg&fm=jpg",
+       
+       
+    },
+    {
+        id:6,
+        img:"https://images.pexels.com/photos/8131586/pexels-photo-8131586.jpeg?cs=srgb&dl=pexels-ron-lach-8131586.jpg&fm=jpg",
+       
+       
+    },
+
 
 ];
