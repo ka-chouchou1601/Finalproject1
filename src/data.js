@@ -48,7 +48,7 @@ export const categories=[
 export const popularProducts=[
     {
         id:1,
-        img:"https://images.pexels.com/photos/8479108/pexels-photo-8479108.jpeg?cs=srgb&dl=pexels-los-muertos-crew-8479108.jpg&fm=jpg",
+        img:"https://images.pexels.com/photos/7446431/pexels-photo-7446431.jpeg?cs=srgb&dl=pexels-karen-la%C3%A5rk-boshoff-7446431.jpg&fm=jpg",
       
        
     },
@@ -83,6 +83,18 @@ export const popularProducts=[
        
        
     },
-
+    {
+        id:7,
+        img:"https://images.pexels.com/photos/6074976/pexels-photo-6074976.jpeg?cs=srgb&dl=pexels-alena-shekhovtcova-6074976.jpg&fm=jpg",
+       
+       
+    },
+    {
+        id:8,
+        img:"https://images.pexels.com/photos/6471430/pexels-photo-6471430.jpeg?cs=srgb&dl=pexels-cottonbro-6471430.jpg&fm=jpg",
+       
+       
+    },
+    
 
 ];
